@@ -18,7 +18,7 @@ Begin VB.Form Form1
       Height          =   372
       Left            =   6600
       TabIndex        =   45
-      Top             =   1140
+      Top             =   1142
       Width           =   1992
    End
    Begin VB.CommandButton cmdDark 
